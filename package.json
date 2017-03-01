@@ -1,0 +1,19 @@
+{
+  "name": "reacttome",
+  "version": "1.0.0",
+  "description": "live streaming app to allow users to react to something while providing funny content",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bairon29/interractiveapp.git"
+  },
+  "author": "Bairon J. Vasquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bairon29/interractiveapp/issues"
+  },
+  "homepage": "https://github.com/Bairon29/interractiveapp#readme"
+}
