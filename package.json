@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/Bairon29/interractiveapp/issues"
   },
-  "homepage": "https://github.com/Bairon29/interractiveapp#readme"
+  "homepage": "https://github.com/Bairon29/interractiveapp#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "express-session": "^1.15.1",
+    "method-override": "^2.3.7",
+    "mustache": "^2.3.0",
+    "mustache-express": "^1.2.4",
+    "pg-promise": "^5.6.2",
+    "socket.io": "^1.7.3"
+  }
 }
